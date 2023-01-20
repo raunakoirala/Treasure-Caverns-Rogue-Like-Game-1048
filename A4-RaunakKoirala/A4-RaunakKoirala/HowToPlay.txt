@@ -1,0 +1,27 @@
+HOW TO PLAY:
+
+Explore the vast and dangerous caves to retrieve 5 artifacts and return them to the village.
+  
+They speak of minions of the Dragon within the tunnels, use your swordsmanship and vigor to journey and fight
+through them to make it to the Dragon. 
+
+Use your map an lantern to navigate this dark and vast cave and make sure to use provisions and potions to 
+keep yourself alive.
+
+Pick up lost gems and gold to take back to the village in order to trade with villagers.
+
+Upgrade your armour, and make use of already collected artifacts to aid you in battle.
+
+Vanquish the Dragon to retrieve Balthazar's Spell Tome, the most precious artefact and return it to the village
+elder.
+
+[X] Examine for treasure with a chance of finding loot (consumes fuel)
+[A] Attack monster in the cavern
+[F] Flee from battle, however take some damage
+[N], [S], [E], [W]  Move in the direction available 
+[P] Eat a provision to restore health or Drink a potion
+[T] Take item, [D] Drop item
+[M] Open and check the Map
+[H] Check commands and objective
+[Q] Quit the application anytime
+
